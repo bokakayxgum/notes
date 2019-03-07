@@ -1,2 +1,3 @@
 #Database Fundamentals
-![1](C:\Users\Mun Chan\Desktop\Git Hub Note Picture\1.PNG)
+
+![1](1.PNG)
