@@ -611,15 +611,28 @@ Use Stored Procedures with  parameter rather then constructing your own strings
 ## Relational databases management
 
 * Mircrosoft Azure and Amazon Web Service you can pay them and then you build the infrastructure
-* Express edition is free
+* Express edition is free (DB2 Express-C, SQL Server Expres)
+
+## XML and Object-Oriented Databases
 
 ![122](122.png)
+
+* XML documents use the nested tree structure of XML 
+* Use XML languages (Xquery) to query data rather than using SQL
 
 ![123](123.png)
 
 ![124](124.png)
 
+* User ORM to map objects in an object-oriented language to regular relational database tables
+
+## NoSQL Database Systems (Not only SQL)
+
+
+
 ![125](125.png)
+
+* Skills in each db is not transferable
 
 ![126](126.png)
 
@@ -630,3 +643,5 @@ Use Stored Procedures with  parameter rather then constructing your own strings
 ![129](129.png)
 
 ![130](130.png)
+
+![131](131.PNG)
