@@ -566,33 +566,33 @@ Full Table Scan very inefficient way to get to your data
 
 ## Understanding write conflicts
 
-![111](111.png)
+![111](111.PNG)
 
 Race Condition
 
 
 
-![112](112.png)
+![112](112.PNG)
 
 dirty read
 
-![113](113.png)
+![113](113.PNG)
 
-![114](114.png)
+![114](114.PNG)
 
 ## Understanding stored procedures and injection attacks
 
 Stored Procedures/ SProc
 
-![ 115](115.png)
+![ 115](115.PNG)
 
-![116](116.png)
+![116](116.PNG)
 
-![117](117.png)
+![117](117.PNG)
 
-![118](118.png)
+![118](118.PNG)
 
-![119](119.png)
+![119](119.PNG)
 
 Use Stored Procedures with  parameter rather then constructing your own strings
 
@@ -604,9 +604,9 @@ Use Stored Procedures with  parameter rather then constructing your own strings
 
 * Microsoft Access, FileMaker Pro Advanced, Apache OpenOffice
 
-![120](120.png)
+![120](120.PNG)
 
-![121](121.png)
+![121](121.PNG)
 
 ## Relational databases management
 
@@ -615,14 +615,14 @@ Use Stored Procedures with  parameter rather then constructing your own strings
 
 ## XML and Object-Oriented Databases
 
-![122](122.png)
+![122](122.PNG)
 
 * XML documents use the nested tree structure of XML 
 * Use XML languages (Xquery) to query data rather than using SQL
 
-![123](123.png)
+![123](123.PNG)
 
-![124](124.png)
+![124](124.PNG)
 
 * User ORM to map objects in an object-oriented language to regular relational database tables
 
@@ -630,18 +630,18 @@ Use Stored Procedures with  parameter rather then constructing your own strings
 
 
 
-![125](125.png)
+![125](125.PNG)
 
 * Skills in each db is not transferable
 
-![126](126.png)
+![126](126.PNG)
 
-![127](127.png)
+![127](127.PNG)
 
-![128](128.png)
+![128](128.PNG)
 
-![129](129.png)
+![129](129.PNG)
 
-![130](130.png)
+![130](130.PNG)
 
 ![131](131.PNG)
