@@ -477,25 +477,50 @@ By default, order is in **ascending order**
 
 ![92](92.PNG)
 
-## Use Aggregate Functions
+## Using Aggregate Functions
+
+![93](93.PNG)COUNT
+
+MAX
+
+MIN
+
+SUM
 
 
-
-![93](93.PNG)
 
 ![94](94.PNG)
 
 ![95](95.PNG)
 
+It can either give you the single count of all rows, or it can give you all the multiple values in the color column
+
+
+
 ![96](96.PNG)
+
+## Joining Tables
+
+* To join our tables together
+
+
 
 ![97](97.PNG)
 
+* Alice does not have a match --> Inner Join 
+* JOIN is default to INNER JOIN
+
 ![98](98.PNG)
+
+* OUTER JOIN --> something take precedance
 
 ![99](99.PNG)
 
 ![100](100.PNG)
+
+## Inserting, updating, and deleting
+
+
 
 ![101](101.PNG)
 
@@ -505,14 +530,103 @@ By default, order is in **ascending order**
 
 ![104](104.PNG)
 
+## The data definition languages
+
+
+
 ![105](105.PNG)
 
 ![106](106.PNG)
 
 ![107](107.PNG)
 
+People will use **MySQL Workbench** or **SQL Server Management Studio**
+
+# Part7: Database Modeling: Indexing and Optimization
+
+## Understanding indexes
+
+* An index in the database is like an index in a textbook
+* Primary key does not answer if it can help us to find the row really fast
+* Primary index on any table is called **Clustered Index**
+* Most of the DBMS will automatically make the primary key the clustered index
+* Each table can only have one clustered index
+
 ![108](108.PNG)
+
+Full Table Scan very inefficient way to get to your data
+
+
 
 ![109](109.PNG)
 
-![110](1110.PNG)
+
+
+![110](110.PNG)
+
+## Understanding write conflicts
+
+![111](111.png)
+
+Race Condition
+
+
+
+![112](112.png)
+
+dirty read
+
+![113](113.png)
+
+![114](114.png)
+
+## Understanding stored procedures and injection attacks
+
+Stored Procedures/ SProc
+
+![ 115](115.png)
+
+![116](116.png)
+
+![117](117.png)
+
+![118](118.png)
+
+![119](119.png)
+
+Use Stored Procedures with  parameter rather then constructing your own strings
+
+
+
+# Part8: Database Options
+
+## Desktop databases
+
+* Microsoft Access, FileMaker Pro Advanced, Apache OpenOffice
+
+![120](120.png)
+
+![121](121.png)
+
+## Relational databases management
+
+* Mircrosoft Azure and Amazon Web Service you can pay them and then you build the infrastructure
+* Express edition is free
+
+![122](122.png)
+
+![123](123.png)
+
+![124](124.png)
+
+![125](125.png)
+
+![126](126.png)
+
+![127](127.png)
+
+![128](128.png)
+
+![129](129.png)
+
+![130](130.png)
